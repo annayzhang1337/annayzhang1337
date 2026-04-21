@@ -1,8 +1,8 @@
 # Anna Zhang
 
-Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25). Building the personal context layer for the AI era.
+Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25). Building the system of record for AI-native knowledge work.
 
-Nessie auto-syncs your AI conversations across ChatGPT, Claude, Gemini, and Perplexity - then turns scattered context into things you can actually use.
+Nessie auto-syncs your AI conversations across ChatGPT, Claude, Gemini, Perplexity, Claude Code, and OpenClaw - then turns scattered context into things you can actually use.
 
 Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations). Senior thesis on LLM + Knowledge Graph reasoning with multi-agent MCTS.
 
