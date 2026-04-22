@@ -10,6 +10,7 @@ I write sometimes - [Medium](https://medium.com/@anna-yutong-zhang) / [Substack]
 
 ### Links
 
+- [Website](https://theannaz.com)
 - [Nessie](https://nessielabs.com)
 - [X](https://x.com/anna_y_zhang)
 - [LinkedIn](https://linkedin.com/in/annayutongzhang)
