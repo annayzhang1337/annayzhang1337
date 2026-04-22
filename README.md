@@ -1,16 +1,17 @@
 # Anna Zhang
 
-Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25). Building the system of record for AI-native knowledge work.
+Building infrastructure for thought.
 
-Nessie auto-syncs your AI conversations across ChatGPT, Claude, Gemini, Perplexity, Claude Code, and OpenClaw - then turns scattered context into things you can actually use.
+Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - the system of record for AI-native knowledge work. Nessie auto-syncs your AI conversations across ChatGPT, Claude, Gemini, Perplexity, Claude Code, and OpenClaw.
 
-Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations). Senior thesis on LLM + Knowledge Graph reasoning with multi-agent MCTS.
+Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations).
 
-I write sometimes - [Medium](https://medium.com/@anna-yutong-zhang) / [Substack](https://annayutongzhang.substack.com)
+Latest writing: [Why We Killed Our Own Product - Twice](https://x.com/anna_y_zhang/status/2046296928242254329)
 
 ### Links
 
 - [Website](https://theannaz.com)
 - [Nessie](https://nessielabs.com)
 - [X](https://x.com/anna_y_zhang)
+- [Substack](https://annayutongzhang.substack.com)
 - [LinkedIn](https://linkedin.com/in/annayutongzhang)
