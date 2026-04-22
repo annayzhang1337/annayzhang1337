@@ -2,7 +2,7 @@
 
 Building infrastructure for thought.
 
-Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - the system of record for AI-native knowledge work. Nessie auto-syncs your AI conversations across ChatGPT, Claude, Gemini, Perplexity, Claude Code, and OpenClaw.
+Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - the system of record for AI-native knowledge work.
 
 Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations).
 
