@@ -2,7 +2,7 @@
 
 Building infrastructure for thought.
 
-Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - building the shared context layer for you, your team, and your agents.
+Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - the shared context layer for you, your team, and your agents.
 
 Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations).
 
