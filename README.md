@@ -2,11 +2,9 @@
 
 Building infrastructure for thought.
 
-Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25) - the shared context layer for you, your team, and your agents.
+Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25).
 
-Yale CS '24. Previously SDE at Amazon (Tier-1 Recommendations).
-
-Latest writing: [Why We Killed Our Own Product - Twice](https://x.com/anna_y_zhang/status/2046296928242254329)
+Yale CS '24. Previously built Recommendations Service at Amazon.
 
 ### Links
 
