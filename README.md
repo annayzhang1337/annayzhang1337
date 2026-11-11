@@ -6,6 +6,14 @@ Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25).
 
 Yale CS '24. Previously built Recommendations Service at Amazon.
 
+### Currently working on
+
+Shipping ontology to team users.
+
+- Making timelines very fast
+- Teaching Nessie to read iMessage as a signal
+- Letting agents set up the wiki
+
 ### Links
 
 - [Website](https://theannaz.com)
