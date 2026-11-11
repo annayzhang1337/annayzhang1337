@@ -1,0 +1,37 @@
+name: Sync "Currently working on" from theannaz.com
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # daily, 7am Pacific
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch latest week
+        run: |
+          curl -fsSL https://theannaz.com/now.md -o now.md
+          # The site serves index.html for unknown paths; refuse anything that isn't a markdown list.
+          head -c 1 now.md | grep -q -- '-' || { echo "now.md is not a markdown list"; exit 1; }
+      - name: Replace section in README
+        run: |
+          python3 - <<'PY'
+          import re
+          now = open('now.md').read().strip()
+          s = open('README.md').read()
+          new = re.sub(r'(<!-- now:start -->\n).*?(\n<!-- now:end -->)', lambda m: m.group(1) + now + m.group(2), s, flags=re.S)
+          open('README.md', 'w').write(new)
+          PY
+          rm now.md
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Sync Currently working on from theannaz.com"
+          git push
