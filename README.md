@@ -14,6 +14,8 @@ Yale CS '24. Previously built Recommendations Service at Amazon.
 - Cutting the lag while Nessie syncs
 <!-- now:end -->
 
+[See my past work log](https://theannaz.com/log)
+
 ### Links
 
 - [Website](https://theannaz.com)
