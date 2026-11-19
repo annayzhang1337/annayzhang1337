@@ -9,11 +9,9 @@ Yale CS '24. Previously built Recommendations Service at Amazon.
 ### Currently working on
 
 <!-- now:start -->
-- Shipping ontology to team users
-  - Making timelines very fast
-  - Teaching Nessie to read iMessage as a signal
-  - Letting agents set up the wiki
-- We're hiring! [See open roles](https://www.ycombinator.com/companies/nessie/jobs)
+- Hiring, a lot of it. [See open roles](https://www.ycombinator.com/companies/nessie/jobs)
+- Improving Nessie's wiki, which writes and updates itself from your work. It now reads iMessage too.
+- Cutting the lag while Nessie syncs
 <!-- now:end -->
 
 ### Links
