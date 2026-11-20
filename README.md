@@ -1,6 +1,6 @@
 # Anna Zhang
 
-Building infrastructure for thought.
+Building Nessie. Writing everything else.
 
 Co-founder & CEO at [Nessie Labs](https://nessielabs.com) (YC F25).
 
